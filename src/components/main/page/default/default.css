@@ -1,0 +1,15 @@
+.main__area-default{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 1229px;
+    height: 787px;
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+.main__logo{
+    width: 45%;
+    height: 50%;
+}

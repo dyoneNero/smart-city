@@ -1,0 +1,148 @@
+/* FONT */
+
+@import url(https://fonts.googleapis.com/css?family=Raleway:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+@import url(https://fonts.googleapis.com/css?family=Oswald:200,300,regular,500,600,700);
+
+/*  */
+
+.analytics-head{
+    display: flex;
+    justify-content: space-between;
+}
+
+.analytics-head-search{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    text-align: start;
+    width: 960px;
+    height: 60px;
+    background-color: white;
+    border: 1px solid #C4C4C4;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.analytics-head-btn{
+    width: 152px;
+    height: 60px;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    background: #7ED3A7;
+    border: 1px solid #C4C4C4;
+    border-radius: 10px;
+}
+
+.analytics-time-block{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    max-width: 276px;
+    height: 61px;
+    min-width: 148px;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    background: rgba(41, 122, 243, 0.1);
+    border-radius: 10px;
+    border: 1px solid #C4C4C4;
+    padding: 15px 20px;
+    margin: 30px 0px 0px 30px;
+}
+
+.analytics-time-block p{
+    margin: 0;
+    padding: 0;
+    margin-right: 10px;
+}
+
+.analytics-time{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.analytics-dkiq{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    padding: 80px 78px 37px 130px;
+    width: 1229px;
+    height: 576px;
+
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+.analytics-line{
+    width: 3px;
+    height: 424px;
+    left: 1180px;
+    top: 463px;
+
+    background: #C4C4C4;
+}
+
+.analytics-dk{
+
+}
+.analytics-dk-block{
+    margin-top: 30px;
+    width: 397px;
+    height: 44px;
+    
+    background: rgba(41, 122, 243, 0.1);
+    border: 1px solid #C4C4C4;
+    border-radius: 5px;
+}
+.analytics-dk p{
+    text-align: center;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+}
+
+.analytics-iq-block{
+    width: 301px;
+    height: 44px;
+    
+    background: rgba(41, 122, 243, 0.1);
+    border: 1px solid #C4C4C4;
+    border-radius: 5px;
+}
+.analytics-iq p{
+    text-align: center;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+}
+
+.analytics-iq-blocks{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.analytics-iq-checkbox{
+    width: 40px;
+    height: 44px;
+    left: 1731px;
+    top: 538px;
+    background: rgba(41, 122, 243, 0.1);
+    border: 1px solid #C4C4C4;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-left: 50px;
+}

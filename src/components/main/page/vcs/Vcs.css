@@ -1,0 +1,12 @@
+.vcs-area{
+    height: 100%;
+    width: 1229px;
+    height: 787px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.vcs-img{
+}

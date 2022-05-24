@@ -1,0 +1,119 @@
+.area__road-map{
+    width: 1229px;
+    height: 747px;
+    background: rgba(255, 255, 255, 0.64);
+    border-radius: 10px;
+    font-family: 'Raleway', serif;
+    font-style: normal;
+    font-weight: 400;
+}
+.title{
+    margin: 0;
+    padding: 0;
+    font-family: "Raleway";
+    font-weight: 400;
+    line-height: 23.48px;
+    font-size: 20px;
+    line-height: 23px;
+    margin-bottom: 15px;
+    padding-left: 20px;
+}
+
+.title p{
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.title img{
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+table {
+    border: 0px;
+    width: 100%;
+}
+td {
+    text-align: center;
+    border: 1px solid #C4C4C4;
+}
+tr {
+    border: 1px solid #C4C4C4;
+}
+.top-cell{
+    padding: 30px 0px;
+    border-top: 0;
+}
+.bottom-cell{
+    border-bottom: 0;
+}
+.right-cell{
+    border-right: 0;
+}
+.left-cell{
+    border-left: 0;
+}
+.up-cell{
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 115px;
+    height: 40px;
+
+    background: rgba(225, 225, 225, 0.22);
+    border: 1px solid #C4C4C4;
+    border-radius: 5px;
+    padding: 5px;
+}
+p{
+    font-size: 14px;
+}
+.cell-two-block{
+    text-align: left;
+    padding: 0px 5px;
+    display: flex;
+}
+.cell-two-block h1{
+    width: 100px;
+    margin: 10px;
+    font-family: 'Raleway', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+}
+.cell-two-block2{
+    text-align: left;
+    padding: 0px 5px;
+    display: flex;
+}
+.cell-two-block2 h1{
+    width: 130px;
+    margin: 10px;
+    font-family: 'Raleway', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+}
+._fz18{
+    font-size: 18px;
+}
+.illuminated{
+    margin-left: 5px;
+    text-align: left;
+    max-width: 120px;
+}
+._cc{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.display_none{
+    display: none;
+}

@@ -1,0 +1,15 @@
+
+.worker-area{
+    width: 1229px;
+    height: 787px;
+    background: rgba(255, 255, 255, 0.64);
+    border-radius: 10px;
+    font-family: 'Raleway', serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.empty-cell{
+    width: 100px;
+    height: 100px;
+}

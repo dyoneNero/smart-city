@@ -1,0 +1,216 @@
+/*FONT*/
+@import url(https://fonts.googleapis.com/css?family=Raleway:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+/**/
+
+.cartproject_area{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    height: 747px;
+    width: 1229px;
+    border-radius: 10px;
+}
+.cartproject_area a{
+    color: #000;
+    text-decoration: none;
+}
+
+
+.cartproject_header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cartprojct_header_block1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 30px;
+    margin-right: 100px;
+    width: 483px;
+    height: 38px;
+    background: #FFFFFF;
+    border: 2px solid #CBC2C2;
+    border-radius: 10px;
+}
+
+.cartprojct_header_block2{
+    padding: 0px 20px;
+    width: 684px;
+    height: 46px;
+    border: 1px solid #C4C4C4;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.grayblock{
+    color: #505050;
+}
+
+.dta{
+    display: flex;
+    justify-content: space-between;
+}
+
+._ml{
+    margin-left: 10px;
+}
+
+._fz25{
+    font-size: 25px;
+}
+
+.cartproject_main{
+    height: 600px;
+    margin-top: 38px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.cartproject_infoblock{
+    width: 330px;
+}
+
+.cartproject_responsible{
+    font-size: 20px;
+    width: 100%;
+    height: 108px;
+    border: 2px solid #CBC2C2;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+
+.cartproject_status{
+    margin-top: 15px;
+    width: 100%;
+    height: 67px;
+    border: 2px solid #CBC2C2;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 30px;
+}
+
+.cartproject_status_block{
+    width: 114px;
+    height: 35px;
+    background: #FFFFFF;
+    border: 1px solid #C4C4C4;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 7px 7px;
+}
+.cartproject_status_block p{
+    font-size: 12px;
+}
+
+.cartproject_statuscircle{
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    background-color: yellow;
+}
+
+.cartproject_iqreport{
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cartproject_iqreportbtn{
+    color: black;
+    text-decoration: none;
+    width: 141px;
+    height: 50px;
+    border: 2px solid #CBC2C2;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cartproject_videophoto{
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cartproject_videophotobtn{
+    background-color: white;
+    width: 141px;
+    height: 50px;
+    border: 2px solid #CBC2C2;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cartproject_tasksbtn{
+    margin-top: 200px;
+    font-size: 28px;
+    width: 100%;
+    height: 79px;
+    background: #F7F7F7;
+    border: 0.5px solid #444343;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/**/
+.cartproject_line {
+    width: 3px;
+    height: 100%;
+    background: rgba(196, 196, 196, 0.41);
+}
+/**/
+.cartproject_commentaries{
+    width: 800px;
+    height: 100%;
+    background: #FAFAFA;
+    border-radius: 10px;
+    padding: 20px 40px;
+}
+
+.cartproject_commentarieshistory{
+    height: 470px;
+}
+
+.cartproject_write{
+    height: 120px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cartproject_input{
+    width: 600px;
+    height: 70px;
+    background: #F6F6F6;
+    border: 0.5px solid #B3B3B3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.cartprojct_sendbtn{
+    width: 57px;
+    height: 57px;
+    background: rgba(123, 211, 169, 0.9);
+    border: 0.5px solid #BEBEBE;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

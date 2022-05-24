@@ -1,0 +1,55 @@
+.tasks-block{
+    margin: 0;
+    padding: 0px 20px;
+    width: 100%;
+    height: 170px;
+    background-color: white;
+    border: 1px solid #E2E2E2;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.tasks-block:not(:first-child){
+    margin-top: 20px;
+}
+
+.tasks-block-deadline{
+    display: flex;
+    justify-content: space-between;
+}
+.tasks-block-deadline h1{
+    color: #2310F4;
+    font-family: 'Oswald';
+    font-weight: 400;
+    font-size: 20px;
+
+}
+.tasks-block-deadline p{
+    color: #FF0000;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+
+}
+
+.tasks-block-description h1{
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 16px;
+
+}
+.tasks-block-description p{
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 13px;
+
+}
+
+.hide{
+    display: none;
+}
+
+.hovered{
+    background-color: #d1d8e2;
+}

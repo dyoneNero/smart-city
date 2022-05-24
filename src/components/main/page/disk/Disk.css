@@ -1,0 +1,87 @@
+/* FONT */
+
+@import url(https://fonts.googleapis.com/css?family=Raleway:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+@import url(https://fonts.googleapis.com/css?family=Oswald:200,300,regular,500,600,700);
+
+/*  */
+
+
+
+.disk-area{
+    font-family: 'Raleway';
+    font-weight: 400;
+    height: 100%;
+    width: 1229px;
+    height: 787px;
+    border-radius: 10px;
+}
+
+.disk-btn{
+    margin: 0px 32px 0px 0px;
+    font-size: 26px;
+    font-family: 'Oswald';
+    width: 321px;
+    height: 65px;
+    background-color: rgba(0, 0, 0, 0);
+    border: 2px solid #C4C4C4;
+    border-radius: 10px;
+}
+
+.title-disk{
+    margin: 0;
+    padding: 0;
+    font-family: "Raleway";
+    font-weight: 400;
+    line-height: 23.48px;
+    font-size: 20px;
+    line-height: 23px;
+    margin-bottom: 15px;
+    margin-top: 55px;
+}
+
+.title-disk p{
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.title-disk img{
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.disk-btn-folder{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 31px;
+    text-align: center;
+    height: 65px;
+    background: #FFFFFF;
+    border: 2px solid #C4C4C4;
+    border-radius: 10px;
+    margin-top: 53px;
+    width: 321px;
+}
+
+.disk-line{
+    position: absolute;
+    width: 3px;
+    height: 835px;
+    left: 959px;
+    top: -100px;
+    
+    background: rgba(196, 196, 196, 0.41);
+    transform: rotate(-90deg);
+}
+
+.disk-img{
+    margin-top: 33px;
+    display: block;
+    width: 80%;
+    height: 60%;
+}

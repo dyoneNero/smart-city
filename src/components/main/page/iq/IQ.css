@@ -1,0 +1,58 @@
+/* FONT */
+
+@import url(https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900);
+
+/*  */
+
+
+.area-iq{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    height: 100%;
+    width: 1229px;
+    height: 787px;
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+.pad{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+.block {
+    background: rgba(41, 122, 243, 0.1);
+    border: 1px solid #C4C4C4;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding: 7px 20px;
+    max-width: 300px;
+}
+
+
+.two-column{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.gsg{
+    display: flex;
+    justify-content: center;
+}
+
+.ff{
+    max-width: 300px;
+    text-align: left;
+}
+
+.tt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

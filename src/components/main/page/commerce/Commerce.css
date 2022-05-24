@@ -1,0 +1,75 @@
+/* FONT */
+
+
+@import url(https://fonts.googleapis.com/css?family=Oswald:200,300,regular,500,600,700);
+
+/*  */
+
+.commerce_area{
+    font-family: 'Oswald';
+    font-weight: 400;
+    height: 100%;
+    width: 1229px;
+    height: 787px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.commerce_columns{
+    width: 400px;
+    height: 100%;
+    background: #FFFFFF;
+    border: 1px solid #C4C4C4;
+    border-radius: 10px;
+}
+
+.commerce_title{
+    height: 73px;
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #C4C4C4;
+}
+
+.commerce_title p{
+    font-size: 22px;
+}
+
+.commerce_countmsgs{
+    margin-left: 30px;
+    font-size: 18px;
+    text-align: start;
+    margin-bottom: 20px;
+}
+.commerce_countmsg{
+    font-size: 18px;
+    text-align: start;
+    margin-bottom: 20px;
+}
+
+.commerce_countmsgnum{
+    color: rgba(0, 0, 0, 0.17);
+}
+
+.commerce_list{
+    padding: 30px;
+}
+
+.commerce_item{
+    padding: 10px;
+    width: 340px;
+    height: 290px;
+    background: #FAFAFA;
+    border: 1px solid #E2E2E2;
+    border-radius: 5px;
+}
+
+.commerce_item:last-child{
+    margin-top: 50px;
+}
+
+.commerce_item_title{
+    font-size: 22px;
+    margin-bottom: 10px;
+    text-align: center;
+}

@@ -1,0 +1,150 @@
+.message_block{
+    width: 100%;
+    height: 77px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.message_oval{
+    width: 288px;
+    height: 77px;
+    background: rgba(196, 196, 196, 0.05);
+    border: 2px solid #7ED3A7;
+    border-radius: 60px;
+    display: flex;
+    align-items: center;
+    padding: 15px;
+}
+
+.message_circle{
+    width: 23px;
+    height: 23px;
+    background: linear-gradient(0deg, #CBC2C2, #CBC2C2), linear-gradient(0deg, #CBC2C2, #CBC2C2), #CBC2C2;
+    border-radius: 50%;
+}
+
+.message_photo{
+    margin-right: 20px;
+    width: 45px;
+    height: 45px;
+    background: #FFC8C8;
+    border-radius: 50%;
+}
+
+.message_text{
+}
+
+.message_text_oval{
+    margin-top: 5px;
+    width: 166.93px;
+    height: 7px;
+    background: #E9E8E8;
+    border: 1px solid #E2E2E2;
+    border-radius: 5px;
+}
+
+/*-----------------------------------------------------------------*/
+.messagege_block{
+    width: 383px;
+    height: 103px;
+}
+
+.messagege_oval{
+    width: 288px;
+    height: 77px;
+    background: rgba(196, 196, 196, 0.05);
+    border: 2px solid #7ED3A7;
+    border-radius: 60px;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.messagege_photo{
+    margin-right: 20px;
+    width: 60px;
+    height: 60px;
+    background: #FFC8C8;
+    border-radius: 50%;
+}
+
+.messagege_text_oval{
+    margin-top: 5px;
+    width: 164px;
+    height: 7px;
+    background: #E9E8E8;
+    border: 1px solid #E2E2E2;
+    border-radius: 5px;
+}
+
+/*------------------------------------------------------------*/
+
+.messagegr_block{
+    width: 383px;
+    height: 103px;
+}
+
+.messagegr_oval{
+    width: 288px;
+    height: 77px;
+    background: rgba(196, 196, 196, 0.05);
+    border: 2px solid #C4C4C4;
+    border-radius: 60px;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.messagegr_photo{
+    margin-right: 20px;
+    width: 60px;
+    height: 60px;
+    background: #FFC8C8;
+    border-radius: 50%;
+}
+
+.messagegr_text_oval{
+    margin-top: 5px;
+    width: 164px;
+    height: 7px;
+    background: #E9E8E8;
+    border: 1px solid #E2E2E2;
+    border-radius: 5px;
+}
+
+/*-------------------------------------------------------------*/
+
+.messageye_block{
+    width: 383px;
+    height: 103px;
+}
+
+.messageye_oval{
+    width: 288px;
+    height: 77px;
+    background: rgba(196, 196, 196, 0.05);
+    border: 2px solid #FDF399;
+    border-radius: 60px;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.messageye_photo{
+    margin-right: 20px;
+    width: 60px;
+    height: 60px;
+    background: #FFC8C8;
+    border-radius: 50%;
+}
+
+.messageye_text_oval{
+    margin-top: 5px;
+    width: 164px;
+    height: 7px;
+    background: #E9E8E8;
+    border: 1px solid #E2E2E2;
+    border-radius: 5px;
+}

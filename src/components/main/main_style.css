@@ -1,0 +1,30 @@
+/* menu */
+.main{
+    font-family: 'Oswald';
+    font-weight: 400;
+    margin-top:50px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 55px 0px 36px;
+}
+/* -------------------- */
+.main__line{
+    background: rgba(196, 196, 196, 0.41);
+    width: 3px;
+    height: 787px;
+}
+
+.main__area{
+    width: 1229px;
+    height: 787px;
+}
+
+.menu__group-btn{
+    display: flex;
+    flex-direction: column;
+}
+.menu__group-btn:not(:last-child){
+    margin-bottom: 44px;
+}
+/* ----------------- */
+

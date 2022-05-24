@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+
+.menu__btn{
+    text-decoration: none;
+    color: black;
+    font-family: 'Oswald';
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    width: 321px;
+    height: 60px;
+    background: #FFFFFF;
+    border: 2px solid #CBC2C2;
+    border-radius: 10px;
+    margin-bottom: 11px;
+    padding: 15px 15px 15px 20px;
+}
+.menu__btn p{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    margin-left: 15px;
+}
+.menu__btn:focus{
+    position: relative;
+    right: 10px;
+    background: rgba(123, 211, 169, 0.3);
+    border: 2px solid #7BD3C3;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+

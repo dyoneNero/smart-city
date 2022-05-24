@@ -1,0 +1,91 @@
+/* FONT */
+@import url(https://fonts.googleapis.com/css?family=Montserrat+Subrayada:regular,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:200,300,regular,500,600,700);
+/*  */
+
+
+.area-tasks{   
+    font-family: 'Oswald'; 
+    font-weight: 400;
+    height: 100%;
+    width: 1229px;
+    height: 787px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.tasks-container{
+    padding: 20px 20px;
+    height: 710px;
+    overflow-y: scroll;
+}
+
+
+.column-tasks{
+    width: 32%;
+    background-color: white;
+    border: 1px solid #C4C4C4;
+    border-radius: 10px;
+}
+
+/*.tasks-block{
+    margin: 0;
+    padding: 0px 20px;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    border: 1px solid #E2E2E2;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.tasks-block-deadline{
+    display: flex;
+    justify-content: space-between;
+}
+.tasks-block-deadline h1{
+    color: #2310F4;
+    font-family: 'Oswald';
+    font-weight: 400;
+    font-size: 20px;
+
+}
+.tasks-block-deadline p{
+    color: #FF0000;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+
+}
+
+.tasks-block-description h1{
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 16px;
+
+}
+.tasks-block-description p{
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 13px;
+
+}*/
+
+
+.title-tasks{
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+    height: 73px;
+    border-bottom: 1px solid #C4C4C4;
+    line-height: 11px;
+}
+
+.title-tasks h1{
+    font-size: 22px;
+    font-family: 'Oswald'; 
+    font-weight: 400;
+}
