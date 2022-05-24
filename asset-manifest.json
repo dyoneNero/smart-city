@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/smart-city/static/css/main.91804756.css",
+    "main.js": "/smart-city/static/js/main.5df1fc76.js",
+    "static/media/camera_bg.png": "/smart-city/static/media/camera_bg.91e9eb7cbdd2024f2c45.png",
+    "static/media/disk_img.png": "/smart-city/static/media/disk_img.97fde1c75d9d0096e859.png",
+    "static/media/logo_sc.png": "/smart-city/static/media/logo_sc.4b2186c5db598a6544e8.png",
+    "index.html": "/smart-city/index.html",
+    "main.91804756.css.map": "/smart-city/static/css/main.91804756.css.map",
+    "main.5df1fc76.js.map": "/smart-city/static/js/main.5df1fc76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91804756.css",
+    "static/js/main.5df1fc76.js"
+  ]
+}
